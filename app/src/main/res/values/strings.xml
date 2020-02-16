@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lesson3</string>
+    <string name="manifest_label_choice_activity">Кто Пидор?</string>
+    <string name="text_view_who_loh_activity_main">Кто ЛОХ?</string>
+    <string name="button_make_choice_activity_main">Сделать выбор</string>
+    <string name="text_view_your_variant_activity_choice">Свой Вариант</string>
+    <string name="button_answer_activity_choice">Ответить</string>
+    <string name="radio_button_dima_activity_choice">Дима</string>
+    <string name="radio_button_alina_activity_choice">Алина</string>
+    <string name="button_dat_po_ebalu_activity_main">Дать поебалу</string>
+    <string name="button_bolno_activity_dat_po_ebalu">Ай Больно блин</string>
+</resources>
